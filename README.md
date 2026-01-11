@@ -1,3 +1,4 @@
+
 # 🧠 HDLBits Verilog Solutions
 
 A curated collection of **HDLBits Verilog practice problems**, solved **daily** to build strong **RTL design fundamentals** for **VLSI / ASIC / FPGA** roles.
@@ -42,3 +43,7 @@ hdlbits-solutions/
 │
 └── README.md
 
+=======
+# hdlbits-solutions
+Solutions of Problem Set on the hdlbits plateform. Its like Leetcode for ECE Engineer.
+>>>>>>> 22cbc2eb90e978f1432b763b580a6de78c53a3bf
